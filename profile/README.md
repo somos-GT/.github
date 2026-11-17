@@ -2,6 +2,10 @@
 
 **Tecnologia a serviço do Reino.**
 
+> "Espera grandes coisas de Deus e tenta fazer grandes coisas para Deus."
+>
+> — William Carey
+
 O Gênesis Tech é uma iniciativa da Igreja Evangélica Batista de João Pessoa (IEBJP), vinculada ao Instituto Gênesis, que busca utilizar a tecnologia como instrumento de serviço, evangelização e disseminação da paixão apostólica.
 
 ## 🙋 Sobre nós
